@@ -12,7 +12,7 @@ public class main {
 	private static void displayGreeting() {
 		System.out.println("¡HOLA!");
 		System.out.println("ESTA APP MUESTRA LOS DATOS DE VENTA");
-
+		System.out.println("SE HA SUBIDO");
 	}
 	
 }
